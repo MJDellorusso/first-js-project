@@ -9,3 +9,4 @@ const images = await res.json()
 console.log(images);
 }
 getImage()
+
